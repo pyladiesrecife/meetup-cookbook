@@ -1,9 +1,9 @@
 # Meetup Cookbook
-[![\[Telegram\] PUG-PE](https://img.shields.io/badge/telegram-pugpe-blue.svg?style=flat-square)](https://t.me/pugpe)
-![Twitter Follow](https://img.shields.io/twitter/follow/pugpe?style=social)
-![GitHub](https://img.shields.io/github/license/pugpe/meetup-cookbook)
+[![\[Telegram\] PyLadies Recife](https://img.shields.io/badge/telegram-pugpe-blue.svg?style=flat-square)](https://t.me/pyladiesrecife)
+![Twitter Follow](https://img.shields.io/twitter/follow/pyladies_recife?style=social)
+![GitHub](https://img.shields.io/github/license/pyladiesrecife/meetup-cookbook)
 
->Esse repositório serve como guia na organização e planejamento de um evento do [PUG-PE (Python User Group - Pernambuco)](http://pycon.pug.pe)
+>Esse repositório serve como guia na organização e planejamento de um evento do [PyLadies Recife)](https://recife.pyladies.com/)
 
 *Outras línguas: [English](README.en.md)*
 
@@ -24,10 +24,10 @@
 
 ## Contribuição
 
-Este repositório está aberto a contribuições, se você gostou de algo que foi realizado no PUG e gostaria de dar **feedbacks** ou **propor mudanças**, leia nosso [guia de contribuição](languages/portuguese/CONTRIBUTING.md) e participe!
+Este repositório está aberto a contribuições, se você gostou de algo que foi realizado no PyLadies Recife e gostaria de dar **feedbacks** ou **propor mudanças**, leia nosso [guia de contribuição](languages/portuguese/CONTRIBUTING.md) e participe!
 
 Adoraríamos receber sua ajuda nessa jornada :heart:
 
 ## Código de Conduta
 
-Nós temos um [código de conduta](https://python.org.br/cdc/), esperamos que todos que façam parte do evento concordem com ele. Se você ainda não deu uma olhada nele, recomendamos fortemente sua leitura, vai ser super rápida o/
+Nós temos um [código de conduta](https://github.com/pyladies-brazil/codigo-de-conduta), esperamos que todos que façam parte do evento concordem com ele. Se você ainda não deu uma olhada nele, recomendamos fortemente sua leitura, vai ser super rápida o/
